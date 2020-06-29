@@ -1,0 +1,9 @@
+Package: microbialPhenotypes
+Type: Package
+Title: Tools That Analyze Phenotypic Profiles by Annotation Sets
+Version: 1.0.0
+Date: 2020-05-07
+Author: Peter I-Fan Wu
+Maintainer: Peter I-Fan Wu <peterwu19881230@gmail.com>
+Description: 18 Functions That Aim to Quickly Assess Phenotypic Profiles by Given Annotation Sets
+License: GPL
